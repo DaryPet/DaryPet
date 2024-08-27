@@ -14,7 +14,11 @@ I maintain a strong attention to detail while constantly staying updated on the 
 🤝 **Collaborative Problem Solver
 I thrive in teamwork, believing the best outcomes arise from collective efforts and proactive problem-solving.
 
-## Skills
+## Motivation
+
+*"The only way to do great work is to love what you do."*  
+— Steve Jobs
+
 
 ## Skills
 
