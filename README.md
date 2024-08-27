@@ -2,16 +2,6 @@
 
 ## I am fullstack developer from Ukraine
 
-
-
-
-![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)
-
-<!--
-**DaryPet/DaryPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🌐 Web Development as a Creative Outlet
 I approach IT with the same creativity I applied in my previous work in music and film, seeing web development as a way to craft original solutions and enjoy global flexibility.
 
@@ -23,6 +13,12 @@ I maintain a strong attention to detail while constantly staying updated on the 
 
 🤝 Collaborative Problem Solver
 I thrive in teamwork, believing the best outcomes arise from collective efforts and proactive problem-solving.
+
+
+<!--
+**DaryPet/DaryPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
