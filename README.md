@@ -19,6 +19,14 @@ I thrive in teamwork, believing the best outcomes arise from collective efforts 
 - **Technologies:** React, Node.js, AWS, etc.
 - **Other Skills:** Cybersecurity, CI/CD, etc.
 
+## Skills
+- **Programming Languages:**
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+
+
 <!--
 **DaryPet/DaryPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
