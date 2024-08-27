@@ -16,7 +16,7 @@ I thrive in teamwork, believing the best outcomes arise from collective efforts 
 
 ## Contacts
 
-[📧 d7akkord@gmail.com](mailto:d7akkord@gmail.com) | [LinkedIn](https://www.linkedin.com/in/darya-petrenko/) | [Telegram](https://t.me/daryaperelay)
+[📧 Email](mailto:d7akkord@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/darya-petrenko/) | [📱 Telegram](https://t.me/daryaperelay)
 
 
 ## Motivation
