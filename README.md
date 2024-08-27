@@ -1,4 +1,5 @@
 ## Hi there 👋
+![WakaTime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)
 
 <!--
 **DaryPet/DaryPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
