@@ -14,6 +14,11 @@ I maintain a strong attention to detail while constantly staying updated on the 
 🤝 **Collaborative Problem Solver
 I thrive in teamwork, believing the best outcomes arise from collective efforts and proactive problem-solving.
 
+## Contacts
+
+[📧 d7akkord@gmail.com](mailto:d7akkord@gmail.com) | [LinkedIn](https://www.linkedin.com/in/darya-petrenko/) | [Telegram](https://t.me/daryaperelay)
+
+
 ## Motivation
 
 *"The only way to do great work is to love what you do."*  
