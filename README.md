@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am fullstack developer from Ukraine
+## I am Ukrainian fullstack developer currently  living in Spain
 
 🌐 **Web Development as a Creative Outlet
 I approach IT with the same creativity I applied in my previous work in music and film, seeing web development as a way to craft original solutions and enjoy global flexibility.
